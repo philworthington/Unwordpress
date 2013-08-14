@@ -6,5 +6,7 @@ This is a Wordpress theme currently in development utilizing the <a href="http:/
 
 Deployed to Heroku using: https://github.com/mhoofman/wordpress-heroku.
 
+Theme files can be found in wp-content -> themes -> wpbootstrap.
+
 The theme is currently deployed to Heroku for viewing and testing at: http://cryptic-lowlands-7794.herokuapp.com.
 
